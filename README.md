@@ -1,2 +1,2 @@
 # innsbluck-redhat.github.io
-NicoPixのプライバシーポリシーのwebサイト。
+プライバシーポリシーのwebサイト。
